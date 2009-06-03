@@ -1,0 +1,54 @@
+# Diretorios ignorados
+[tT]empTest
+[tT]estResults
+[oO]bj
+[bB]in
+.svn
+
+# Arquivos ignorados
+*.RET
+*.dll
+*.dll.config
+*.suo
+*.err
+*.log
+*.obj
+*.bin
+*.exe
+*.user
+*.pdb
+*.bak
+*.key
+*.Publish.xml
+[tT]humbs.db
+[aA]pp_HOM.config
+[aA]pp_PROD.config
+[wW]eb_HOM.config
+[wW]eb_PROD.config
+LocaPag.sln.cache
+LocaWeb.CE.LocaPag.UI/LocaWeb.CE.LocaPag.UI.Publish.xml
+LocaWeb.CE.LocaPag.UI.Admin/LocaWeb.CE.LocaPag.UI.Admin.Publish.xml
+LocaWeb.CE.LocaPag.UI.Comprador/LocaWeb.CE.LocaPag.UI.Comprador.Publish.xml
+LocaWeb.CE.LocaPag.UI.LojaProntaServico/LocaWeb.CE.LocaPag.UI.LojaProntaServico.Publish.xml
+LocaWeb.CE.LocaPag.UI.Vendedor/LocaWeb.CE.LocaPag.UI.Vendedor.Publish.xml
+batch.txt
+
+# Excecao aos itens ignorados
+# Toda marcacao com (!) significa uma excecao 
+!Vendor/*.*
+!Vendor/ar/*.*
+!Vendor/cs/*.*
+!Vendor/de/*.*
+!Vendor/es/*.*
+!Vendor/fr/*.*
+!Vendor/he/*.*
+!Vendor/hi/*.*
+!Vendor/it/*.*
+!Vendor/ja/*.*
+!Vendor/ko/*.*
+!Vendor/nl/*.*
+!Vendor/pt/*.*
+!Vendor/ru/*.*
+!Vendor/tr-TR/*.*
+!Vendor/zh-CHS/*.*
+!Vendor/zh-CHT/*.*

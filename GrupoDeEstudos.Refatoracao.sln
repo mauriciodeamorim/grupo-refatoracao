@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrupoDeEstudos.Refatoracao.VideoLocadora", "GrupoDeEstudos.Refatoracao.VideoLocadora\GrupoDeEstudos.Refatoracao.VideoLocadora.csproj", "{F8EB3B76-FADC-48B1-8B82-F21F5A98C462}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoLocadora.Apresentacao", "VideoLocadora.Apresentacao\VideoLocadora.Apresentacao.csproj", "{02649D0A-B779-4058-8FD3-FF9870928FED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoLocadora.Testes", "VideoLocadora.Testes\VideoLocadora.Testes.csproj", "{9E1DA6AC-DBEC-46AF-8A26-7A4278CE0727}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5AE32080-3105-446F-AE61-CA8C320BCEE9}"
+	ProjectSection(SolutionItems) = preProject
+		GrupoDeEstudos.Refatoracao.vsmdi = GrupoDeEstudos.Refatoracao.vsmdi
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = GrupoDeEstudos.Refatoracao.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8EB3B76-FADC-48B1-8B82-F21F5A98C462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8EB3B76-FADC-48B1-8B82-F21F5A98C462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8EB3B76-FADC-48B1-8B82-F21F5A98C462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8EB3B76-FADC-48B1-8B82-F21F5A98C462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02649D0A-B779-4058-8FD3-FF9870928FED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02649D0A-B779-4058-8FD3-FF9870928FED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02649D0A-B779-4058-8FD3-FF9870928FED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02649D0A-B779-4058-8FD3-FF9870928FED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E1DA6AC-DBEC-46AF-8A26-7A4278CE0727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E1DA6AC-DBEC-46AF-8A26-7A4278CE0727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E1DA6AC-DBEC-46AF-8A26-7A4278CE0727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E1DA6AC-DBEC-46AF-8A26-7A4278CE0727}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
